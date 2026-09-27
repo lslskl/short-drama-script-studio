@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧剧本与台词工作室"
+  short_description: "短剧剧本创作、续写改稿、节奏调整与人物台词精修"
+  default_prompt: "使用 $short-drama-script-studio，根据我提供的故事或旧稿创作剧本并精修人物台词。"
